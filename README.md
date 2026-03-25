@@ -1,17 +1,18 @@
-# Restaurant Billing System 🍽️
+# Syntecxhub Internship Projects
 
-## Description
-This is a CLI-based Restaurant Billing System developed in Java.
+## 📚 Library Management System
+Library Management System using Java (CLI based) with features to add, remove, search, and display books. Implements basic data structures and user input validation.
 
-## Features
-- Add and remove items
-- Generate bill with GST
-- Dynamic menu
-- User-friendly interface
+## 🏨 Hotel Booking System
+Hotel Booking Management System using Java (CLI based) with functionalities for room booking, cancellation, and viewing available rooms. Includes input validation and edge case handling.
 
-## Technologies Used
+## 🍽️ Restaurant Billing System
+Restaurant Billing System using Java (CLI based) with GST calculation, dynamic menu, and user input handling.
+
+## 💻 Technologies Used
 - Java
 - OOP Concepts
+- CLI Applications
 
-## Author
+## 👩‍💻 Author
 Sreevalli
