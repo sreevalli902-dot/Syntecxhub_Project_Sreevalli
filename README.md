@@ -16,3 +16,21 @@ Restaurant Billing System using Java (CLI based) with GST calculation, dynamic m
 
 ## 👩‍💻 Author
 Sreevalli
+# Syntecxhub Internship - Task 2
+
+## 🏧 ATM Simulation System
+ATM Simulation System using Java (CLI based) with features like balance check, deposit, withdrawal, and PIN verification. Demonstrates session handling and basic security.
+
+## 🎓 Student Management System
+Console-based Student Management System using Java with functionalities to add, view, update, and delete student records. Uses ArrayList for data storage.
+
+## 📦 Inventory Billing System
+Inventory Billing System using Java (CLI based) to manage stock and generate bills. Includes item management, stock updates, and billing features.
+
+## 💻 Technologies Used
+- Java
+- OOP Concepts
+- CLI Applications
+
+## 👩‍💻 Author
+Sreevalli
