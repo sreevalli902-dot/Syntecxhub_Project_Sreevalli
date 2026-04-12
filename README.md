@@ -34,3 +34,21 @@ Inventory Billing System using Java (CLI based) to manage stock and generate bil
 
 ## 👩‍💻 Author
 Sreevalli
+# Syntecxhub Internship - Task 3
+
+## 👨‍💼 Employee Management System
+Manages employee records using Java Collections with add, update, delete operations.
+
+## 🛒 Online Shopping Cart
+Implements cart system using HashMap for products and billing.
+
+## 🏦 Bank Account Management
+Handles account creation, deposit, withdrawal, and balance checking.
+
+## 💻 Tech Used
+Java
+OOP
+Collections
+
+## 👩‍💻 Author
+Sreevalli
