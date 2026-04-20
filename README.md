@@ -52,3 +52,16 @@ Collections
 
 ## 👩‍💻 Author
 Sreevalli
+# Syntecxhub Internship - Task 4
+
+## 🎓 Student Registration System
+Java + MySQL JDBC project with CRUD operations.
+
+## 💼 Employee Payroll Management
+Manages employee salaries and payroll using database.
+
+## 🏥 Hospital Patient Record System
+Handles patient data securely using MySQL.
+
+## 💻 Tech Used
+Java, JDBC, MySQL
